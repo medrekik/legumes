@@ -1,0 +1,16 @@
+{
+  "fruits": [
+    {
+      "id": 1,
+      "name": "pomme de terre",
+      "quantity": 30,
+      "price": 4500
+    },
+    {
+      "id": 2,
+      "name": "tomates",
+      "price": 2500,
+      "quantity": 25
+    }
+  ]
+}
